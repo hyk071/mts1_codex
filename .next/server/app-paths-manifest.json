@@ -1,0 +1,7 @@
+{
+  "/cameras/page": "app/cameras/page.js",
+  "/page": "app/page.js",
+  "/schedules/page": "app/schedules/page.js",
+  "/schedules/calendar/page": "app/schedules/calendar/page.js",
+  "/logs/page": "app/logs/page.js"
+}
